@@ -58,8 +58,8 @@ Export the DataFrame to a CSV file.
 https://stackoverflow.com/questions/63612438/python-cannot-import-selenium-in-jupyter
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 https://www.tutorialspoint.com/how-to-check-the-data-type-in-pandas-dataframe#:~:text=To%20check%20the%20data%20type%20in%20pandas%20DataFrame%20we%20can,values%20of%20the%20series%20object.
-https://chatgpt.com/share/8a9e25a4-1abd-45d9-8a3f-cee0f7090b46
 https://www.geeksforgeeks.org/beautifulsoup-object-python-beautifulsoup/
+https://chatgpt.com/share/8a9e25a4-1abd-45d9-8a3f-cee0f7090b46
 https://subscription.packtpub.com/book/web-development/9781783289554/2/ch02lvl1sec13/creating-a-beautifulsoup-object
 https://webscraping.ai/faq/beautiful-soup/how-do-i-extract-text-from-html-elements-using-beautiful-soup
 https://stackoverflow.com/questions/2010481/how-do-you-get-all-the-rows-from-a-particular-table-using-beautifulsoup
