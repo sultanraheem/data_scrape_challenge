@@ -1,4 +1,4 @@
-# Data Scraping Challenge
+# mars-web-scraping
 # Part 1
 
 Instructions
